@@ -5,7 +5,7 @@
 [![Hardware](https://img.shields.io/badge/Hardware-M5Stack%20AtomS3R-blue.svg)](https://docs.m5stack.com/en/core/AtomS3R)
 [![Framework](https://img.shields.io/badge/Framework-Arduino%20/%20M5Unified-green.svg)](https://github.com/m5stack/M5Unified)
 
-**GRAVITY SPIN** (also known as *THE TILT MAZE*) is a premium, action-packed retro physics game developed for the M5Stack AtomS3R. By utilizing the built-in IMU, players physically tilt their device in any direction to rotate the maze, harnessing gravity to guide a neon sphere to the goal.
+**GRAVITY SPIN** (also known as *THE TILT MAZE*) is a premium, action-packed retro physics game developed for the M5Stack AtomS3R. By utilizing the built-in IMU, players physically tilt their device in any direction to rotate the maze, harnessing gravity to guide a neon sphere to the goal.<BR>
 <img width="300" height="400" alt="Image" src="https://github.com/user-attachments/assets/010416e8-7780-4ad3-b6b9-1fc95b55dc05" />
 ---
 
